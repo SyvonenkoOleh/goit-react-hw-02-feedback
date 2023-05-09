@@ -11,7 +11,7 @@ export const Button = styled.button`
 display: flex;
 align-items: center;
 justify-content: center;
-border-radius: 15px;
+border-radius: 16px;
 padding: 14px 20px;
 font-size: 24px;
 font-weight: bold;
