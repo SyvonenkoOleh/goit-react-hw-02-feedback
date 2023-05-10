@@ -2,9 +2,11 @@ import styled from '@emotion/styled';
 
 export const ButtonsList = styled.ul`
   display: flex;
-  gap: 20px;
   align-items: center;
   justify-content: center;
+  gap: 20px;
+  list-style: none;
+  padding: 0;
 `;
 
 export const Button = styled.button`

@@ -1,11 +1,9 @@
 import styled from '@emotion/styled';
 
-export const NotificationText = styled.p`
-  margin: 0;
-  width: 100%;
-  min-height: 40px;
+export const Container = styled.div`
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
-  font-size: 24px;
+  padding: 40px;
 `;
